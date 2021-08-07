@@ -1,4 +1,4 @@
-This is a Small Console Based project I made on Hotel Management System using Java:
+This is a Small Console Based project I made on Hotel Management System in Java:
 
 Features:
 
