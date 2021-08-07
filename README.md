@@ -1,6 +1,6 @@
 This is a Small Console Based project I made on Hotel Management System using Java:
 
-Features:
+ Hotel Management System Modules:
 
 (1) BreakFast
 
